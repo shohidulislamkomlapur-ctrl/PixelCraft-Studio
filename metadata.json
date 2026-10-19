@@ -1,0 +1,6 @@
+{
+  "name": "PixelCraft Studio",
+  "description": "Professional layer-based photo and graphic editor with adjustments, tools, masks, and error diagnostics",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
